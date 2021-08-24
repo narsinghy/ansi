@@ -3,3 +3,6 @@ First file for git
 second line in file for git
 
 adding a new line in rebase branch
+
+adding new line in pulled from another pc
+
